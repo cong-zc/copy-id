@@ -1,0 +1,6 @@
+.popup{
+    width: 4rem;
+    span{
+        cursor: pointer;
+    }
+}
